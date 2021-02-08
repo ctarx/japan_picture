@@ -15,4 +15,4 @@ Position training with some img tags.
 Udemy course: [Front-end zaawansowany w 15 dni](https://www.udemy.com/share/100pOSBUcbcVxUQnw=/)
 
 ## Contact
-Created by [@ctarx](https://twitter.com/ctarx) - feel free to contact me!
+Created by [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
